@@ -3,7 +3,6 @@ android:
   components:
     - build-tools-21.1.2
     - android-3
-    - sys-img-armeabi-v7a-google_apis-25
 env:
   global:
    # install timeout in minutes (2 minutes by default)
